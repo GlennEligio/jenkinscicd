@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Changes are done by dev-glenn eligio trigger" );
+        System.out.println( "Changes are done by dev-trigger" );
     }
 }
